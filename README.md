@@ -60,11 +60,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/plant-disease-classification.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+   git clone https://github.com/Abdelrhman-Ellithy/Plant-Disease-CNN-Deep-Learning.git
    ```
 3. Launch the Jupyter Notebook:
    ```bash
